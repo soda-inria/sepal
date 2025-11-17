@@ -5,7 +5,7 @@
 
 # SEPAL: Scalable Feature Learning on Huge Knowledge Graphs for Downstream Machine Learning
 
-[SEPAL pipeline](images/pipeline.png)
+![SEPAL pipeline](images/pipeline.png)
 
 This repository contains the implementation of the paper:
 
