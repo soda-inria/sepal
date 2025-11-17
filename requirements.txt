@@ -1,0 +1,6 @@
+torch==2.5.0
+fastparquet==2024.11.0
+pykeen==1.11.1
+numpy==2.2.6
+scipy==1.15.2
+pandas==2.3.3
