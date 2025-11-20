@@ -1,6 +1,6 @@
 [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Benchmark-yellow)](https://huggingface.co/datasets/inria-soda/sepal-datasets)
-[![arXiv](https://img.shields.io/badge/arXiv-2402.16785-blue.svg)](https://arxiv.org/pdf/2507.00965)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Datasets-yellow)](https://huggingface.co/datasets/inria-soda/sepal-datasets)
+[![arXiv](https://img.shields.io/badge/arXiv-2507.00965-blue.svg)](https://arxiv.org/pdf/2507.00965v2)
 
 
 # SEPAL: Scalable Feature Learning on Huge Knowledge Graphs for Downstream Machine Learning
